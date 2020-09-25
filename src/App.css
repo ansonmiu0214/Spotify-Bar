@@ -1,0 +1,17 @@
+.App {
+  overflow-x: hidden;
+  overflow-y: hidden;
+
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+}
+
+.Main {
+  width: 100vw;
+  margin: auto;
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
